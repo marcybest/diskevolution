@@ -8,7 +8,7 @@ $$\begin{eqnarray}
     \frac{\partial\Sigma_{\rm gas}}{\partial t} &=& \frac{1}{r} \frac{\partial}{\partial r} \left[ 3r^{1/2} \frac{\partial}{\partial r}(\nu \Sigma_{\rm gas} r^{1/2}) \right]
 \end{eqnarray}$$
 
-The file mymodule.py contains the module which evolves the 1D profile and macro.py contains an example of the code being used. The code outputs an interpolated function in time and semimajor axis.
+The file mymodule.py contains the module which evolves the 1D profile and macro.py contains an example of the code being used. The code outputs an interpolated function in time and semimajor axis of the gas surface density.
 
 For more information on how the code works, see our paper at https://iopscience.iop.org/article/10.3847/1538-4357/ad0965
 
