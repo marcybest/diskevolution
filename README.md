@@ -12,4 +12,4 @@ The file mymodule.py contains the module which evolves the 1D profile and macro.
 
 For more information on how the code works, see our paper at https://iopscience.iop.org/article/10.3847/1538-4357/ad0965
 
-For any questions, contact me at mbest@uc.cl
+And for any questions, contact me at mbest@uc.cl
