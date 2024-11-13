@@ -1,5 +1,5 @@
 # diskevolution
-Evolution code for a viscously evolving gaseous disk.
+Evolution code for a viscously evolving 1D gaseous disk.
 
 
 We developed this code for the paper: "The Influence of Cold Jupiters in the Formation of Close-in Planets" by Best, Sefilian & Petrovich 2023. Following the work of Guilera & Sándor (2017), we used a full implicit Crank-Nicholson method to evolve the density profile of a 1D gaseous disk, solving the viscous evolution equation considering zero torques at the boundaries.
